@@ -1,0 +1,19 @@
+{
+  "force_update": false,
+  "mirror_download_url": "https://github.com/huymanhmmo/mipaxo.com/raw/main/downloads/Mipaxo_Setup_v0.6.2.exe",
+  "portable_url": "https://github.com/huymanhmmo/mipaxo.com/raw/main/downloads/Mipaxo_v0.6.2_Windows_x64.zip",
+  "notes": "Luu va khoi phuc ho so, proxy, cai dat va ban nhap tren may. Chon kho du lieu cu trong Cai dat. Dang ky trong desktop va quan ly kich hoat tai tool.mipaxo.com.",
+  "version": "0.6.2",
+  "sha256_setup": "35DD700A0A2781883075CD80B9CE49B86E97263B2DC3102C95A4BE51FE4DB5BA",
+  "sha256_portable": "D4C519506BB1201254D9A3F338A2A8A5D02A857F185D73A9D322ECF21BD70E00",
+  "name": "Mipaxo v0.6.2",
+  "mirror_portable_url": "https://github.com/huymanhmmo/mipaxo.com/raw/main/downloads/Mipaxo_v0.6.2_Windows_x64.zip",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/huymanhmmo/mipaxo.com/raw/main/downloads/Mipaxo_Setup_v0.6.2.exe",
+      "portable_url": "https://github.com/huymanhmmo/mipaxo.com/raw/main/downloads/Mipaxo_v0.6.2_Windows_x64.zip"
+    }
+  },
+  "pub_date": "2026-11-18T03:59:16Z",
+  "download_url": "https://github.com/huymanhmmo/mipaxo.com/raw/main/downloads/Mipaxo_Setup_v0.6.2.exe"
+}
